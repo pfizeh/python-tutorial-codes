@@ -1,1 +1,1 @@
-# python-tutorial-codes
+# python-tutorial-exercises
